@@ -1,0 +1,16 @@
+.box{
+  display: flex;
+  flex-direction: row;
+  
+  /* flex-wrap: wrap; */
+}
+.box .box__img{
+  /* align-items: center; */
+  justify-content: spac;
+  max-width: 25%;
+}
+.box img{
+  max-width: 100%;
+  
+  height: auto;
+}
